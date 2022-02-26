@@ -1,3 +1,3 @@
 # Space tourism
 
-Frontend Master Challenge
+Frontend Mentor Challenge
